@@ -1,4 +1,4 @@
-# File: tool-x.py
+# File: 999.py
 # Author: Lokesh Kumar
 # Update: 19/02/2026
 
@@ -29,7 +29,7 @@ except ImportError as e:
     sys.exit(1)
 
 # File path for Favorites
-FAV_FILE = os.path.expanduser("~/tool-x_favs.json")
+FAV_FILE = os.path.expanduser("~/999_favs.json")
 
 class ToolX:
     def __init__(self):
@@ -265,7 +265,7 @@ class ToolX:
             menu.add_row("", "")
             menu.add_row("[97]", "Search Tool")
             menu.add_row("[98]", "Uninstall Tools")
-            menu.add_row("[99]", "Update Tool-X")
+            menu.add_row("[99]", "Update 999")
             menu.add_row("[F]", "[yellow]★ Favorites[/]")
             menu.add_row("[00]", "[red]Exit[/]")
 
