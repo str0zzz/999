@@ -36,7 +36,7 @@
 
 ---
 
-<img width="892" height="537" alt="image" src="https://github.com/user-attachments/assets/88a30a30-a02a-41b6-9296-39e66df102be" />
+
 
 
 
@@ -54,7 +54,6 @@
 - Lightweight & Fast CLI Framework  
 
 This level of automation is rarely seen in Termux-based frameworks.
-<img width="892" height="647" alt="image" src="https://github.com/user-attachments/assets/91f17557-3e66-43c2-8d95-5a57c7d65055" />
 
 
 ---
