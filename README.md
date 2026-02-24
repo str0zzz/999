@@ -1,36 +1,28 @@
 <div align="center">
 
-# ` TOOL-X `
+# ` 𝟵𝟵𝟵 `
 
 </div>
 
 # Ultimate Multi-Platform Tool Installer (280+ Tools Framework)
 ---
 
-![Stars](https://img.shields.io/github/stars/trmxvibs/Tool-X?style=for-the-badge&color=ffcc00&logo=github)
-![Forks](https://img.shields.io/github/forks/trmxvibs/Tool-X?style=for-the-badge&color=ff8800&logo=github)
-![Issues](https://img.shields.io/github/issues/trmxvibs/Tool-X?style=for-the-badge&color=ff4444&logo=github)
-![License](https://img.shields.io/github/license/trmxvibs/Tool-X?style=for-the-badge&color=00c853)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tools Count](https://img.shields.io/badge/Tools-280%2B-brightgreen?style=for-the-badge)
-![Framework](https://img.shields.io/badge/Framework-Advanced-00bcd4?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20Android-4caf50?style=for-the-badge)
-![Maintenance](https://img.shields.io/badge/Maintained-Active-2e7d32?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Stable-1de9b6?style=for-the-badge)
+
+![)
 
 ---
 
-![About](https://img.shields.io/badge/About-Tool--X%20Framework-ff6f00?style=for-the-badge)
-- Tool-X is a high-end, professional, and automation-focused CLI framework designed to install and manage **280+ hacking, OSINT, security, and research tools** directly from GitHub with a single interactive interface.
+![About]
+- 999 is a high-end, professional, and automation-focused CLI framework designed to install and manage **280+ hacking, OSINT, security, and research tools** directly from GitHub with a single interactive interface.
 
 - **`This is not just a tool installer.`**  
 - This is a full-scale terminal framework engineered for power users, ethical hackers, researchers, and advanced Termux/Linux users who want speed, automation, and scalability in their workflow.
 
-- Instead of wasting hours manually cloning repositories, fixing dependencies, and configuring tools one-by-one, Tool-X centralizes the entire process into a single intelligent dashboard.
+- Instead of wasting hours manually cloning repositories, fixing dependencies, and configuring tools one-by-one, 999 centralizes the entire process into a single intelligent dashboard.
 
 ---
 
-![Why Tool-X](https://img.shields.io/badge/Why-Tool--X%20Is%20Powerful-8e24aa?style=for-the-badge)
+
 
 - Supports 280+ tools in one framework  
 - Saves massive setup time  
@@ -40,14 +32,14 @@
 - Smart search + pagination system  
 - Centralized tool management dashboard  
 
-Tool-X acts like a **specialized package manager for hacking & security tools**.
+999 acts like a **specialized package manager for hacking & security tools**.
 
 ---
 
 <img width="892" height="537" alt="image" src="https://github.com/user-attachments/assets/88a30a30-a02a-41b6-9296-39e66df102be" />
 
 
-![Elite Features](https://img.shields.io/badge/Elite-Features-00acc1?style=for-the-badge)
+
 
 - 280+ Integrated Tools Database  
 - Multi-Platform Compatibility  
@@ -67,7 +59,7 @@ This level of automation is rarely seen in Termux-based frameworks.
 
 ---
 
-![Supported Platforms](https://img.shields.io/badge/Supported-Platforms-43a047?style=for-the-badge)
+
 
 | Platform | Support Level |
 |----------|--------------|
@@ -80,46 +72,46 @@ This level of automation is rarely seen in Termux-based frameworks.
 
 ---
 
-![One Command Installation](https://img.shields.io/badge/One%20Command-Install-00e5ff?style=for-the-badge)
+
 
 Universal installer (Termux, Kali, Ubuntu, Linux):
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/trmxvibs/Tool-X/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/str0zzz/999/main/setup.sh)
 ```
 
 Run the framework:
 ```bash
-toolx
+999
 ```
 
 This single command automatically:
 - Detects your environment (Termux/Linux)
 - Installs git & python dependencies
-- Clones Tool-X framework
+- Clones 999 framework
 - Configures global alias
 - Prepares full CLI dashboard
 
 ---
 
-![Manual Installation](https://img.shields.io/badge/Manual-Installation-ff1744?style=for-the-badge)
+
 
 ```bash
-git clone https://github.com/trmxvibs/Tool-X
-cd Tool-X
+git clone https://github.com/str0zzz/999.git
+cd 999
 bash setup.sh
 ```
 
 Then launch:
 ```bash
-toolx
+999
 ```
 
 ---
 
-![Workflow](https://img.shields.io/badge/Usage-Workflow-ffd600?style=for-the-badge)
 
-1. Launch Tool-X using `toolx`  
+
+1. Launch 999 using `999`  
 2. Select category from main menu  
 3. Browse tools using pagination  
 4. Enter Tool ID  
@@ -129,22 +121,22 @@ This workflow is optimized for speed and zero manual configuration.
 
 ---
 
-![Command System](https://img.shields.io/badge/Command-System-00bfa5?style=for-the-badge)
+
 
 | Command | Function |
 |--------|----------|
-| toolx | Launch Tool-X Framework |
+| toolx | Launch 999 Framework |
 | 97 | Smart Tool Search |
 | 98 | Uninstall Installed Tools |
-| 99 | Update Tool-X |
+| 99 | Update 999 |
 | F | Favorites Menu |
 | 00 | Exit Application |
 
 ---
 
-![Internal Engine](https://img.shields.io/badge/Internal-Engine%20Architecture-3f51b5?style=for-the-badge)
 
-Tool-X uses a modular architecture:
+
+999 uses a modular architecture:
 
 - Python Core CLI Engine  
 - JSON Structured Tool Database (280+ tools)  
@@ -153,11 +145,11 @@ Tool-X uses a modular architecture:
 - Alias-Based Execution System  
 
 Analogy:  
-Tool-X works like `apt` or `pkg` but specifically built for GitHub hacking and research tools.
+999 works like `apt` or `pkg` but specifically built for GitHub hacking and research tools.
 
 ---
 
-![Performance](https://img.shields.io/badge/Performance-High%20Efficiency-ff9100?style=for-the-badge)
+
 
 - Fast loading interface  
 - Minimal resource usage  
@@ -169,7 +161,7 @@ Ideal for low-end devices and Termux environments.
 
 ---
 
-![Requirements](https://img.shields.io/badge/System-Requirements-1e88e5?style=for-the-badge)
+![Requirements]
 
 Minimum Requirements:
 - Python 3.x  
@@ -186,21 +178,21 @@ No manual dependency setup required.
 
 ---
 
-![Update System](https://img.shields.io/badge/Update-System-00c853?style=for-the-badge)
 
-Update directly from Tool-X dashboard:
+
+Update directly from 999 dashboard:
 ```
 Select Option: 99
 ```
 
 Or manually:
 ```bash
-cd ~/tool-x && git pull
+cd ~/999 && git pull
 ```
 
 ---
 
-![Security Notice](https://img.shields.io/badge/Security-Notice-d50000?style=for-the-badge)
+![Security Notice]
 
 This framework is strictly for:
 - Educational Purposes  
@@ -212,13 +204,13 @@ Misuse of tools is the sole responsibility of the user.
 
 ---
 
-![Developer](https://img.shields.io/badge/Developer-Lokesh%20Kumar-6a1b9a?style=for-the-badge)
+![Developer]
 
-- [GitHub](https://github.com/trmxvibs)
-- [YOUTUBE](https://www.youtube.com/@termux2)
+- [GitHub](https://github.com/str0zzz)
+
 
 ---
 
-![License](https://img.shields.io/badge/License-Open%20Source-2e7d32?style=for-the-badge)
+
 
 This project is distributed under the repository's open-source license.
