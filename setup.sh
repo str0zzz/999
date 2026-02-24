@@ -1,12 +1,12 @@
 #!/bin/bash
-# Author: lokesh-kumar
-# Update: 19/02/2026
+# Author: Hydra Strozzz
+# Update: 24/02/2026
 # setup.sh - Multi-Platform Installer Termux Optimized
 
 TOOL_DIR="$HOME/tool-x"
-REPO_URL="https://github.com/trmxvibs/Tool-X"
-INSTALLER_SCRIPT="tool-x.py"
-ALIAS_NAME="Tool-x"
+REPO_URL="https://github.com/str0zzz/999.git"
+INSTALLER_SCRIPT="999.py"
+ALIAS_NAME="999"
 
 # Define colors
 GREEN='\033[1;32m'
@@ -14,7 +14,7 @@ YELLOW='\033[1;33m'
 RED='\033[1;31m'
 NC='\033[0m'
 
-echo -e "\n${GREEN}[*] Initializing Tool-X Setup...${NC}"
+echo -e "\n${GREEN}[*] Initializing 999 Setup...${NC}"
 
 # --- Step 1: Detect OS & Environment ---
 if [ -d "$PREFIX" ] && grep -q "com.termux" "$PREFIX/etc/bash.bashrc" 2>/dev/null; then
@@ -51,11 +51,11 @@ pip install rich requests beautifulsoup4 --break-system-packages 2>/dev/null || 
 
 # --- Step 4: Clone Repository ---
 if [ -d "$TOOL_DIR" ]; then
-    echo -e "\n${YELLOW}[*] Updating Tool-X...${NC}"
+    echo -e "\n${YELLOW}[*] Updating 999...${NC}"
     cd "$TOOL_DIR" || exit
     git pull
 else
-    echo -e "\n${GREEN}[*] Cloning Tool-X...${NC}"
+    echo -e "\n${GREEN}[*] Cloning 999...${NC}"
     git clone "$REPO_URL" "$TOOL_DIR"
     cd "$TOOL_DIR" || exit
 fi
@@ -76,7 +76,7 @@ if [ -f "$SHELL_RC" ]; then
     if grep -q "$ALIAS_NAME=" "$SHELL_RC"; then
         echo -e "${YELLOW}[!] Alias already exists.${NC}"
     else
-        echo -e "\n# Tool-X Alias" >> "$SHELL_RC"
+        echo -e "\n# 999 Alias" >> "$SHELL_RC"
         echo "$ALIAS_CMD" >> "$SHELL_RC"
         echo -e "${GREEN}[+] Alias '$ALIAS_NAME' added to $SHELL_RC${NC}"
     fi
