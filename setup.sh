@@ -3,7 +3,7 @@
 # Update: 24/02/2026
 # setup.sh - Multi-Platform Installer Termux Optimized
 
-TOOL_DIR="$HOME/tool-x"
+TOOL_DIR="$HOME/999"
 REPO_URL="https://github.com/str0zzz/999.git"
 INSTALLER_SCRIPT="999.py"
 ALIAS_NAME="999"
